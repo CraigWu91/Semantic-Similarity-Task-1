@@ -1,0 +1,2 @@
+docker build -t semantic ./
+docker run semantic
