@@ -1,5 +1,5 @@
 # Overview
-The dockerfile will install all the pre-requisites to get the web app working. Mainly en-core-web-md and en-core-web-sm
+The dockerfile will install all the pre-requisites to get the python app working. Mainly en-core-web-md and en-core-web-sm
 
 # Instructions
 * To run the mySite web application using Docker make sure you have Docker installed https://docs.docker.com/get-docker/
